@@ -2,7 +2,7 @@
 
 Full-Stack Web Developer focused primarily on backend development and building scalable, well-structured applications.
 
-I’m currently in a serious growth phase — improving my understanding of clean architecture, software design principles, and performance-oriented development.
+I’m currently in a serious growth phase - improving my understanding of clean architecture, software design principles, and performance-oriented development.
 
 ---
 
